@@ -23,7 +23,7 @@ Nada é instalado: é copiar o conteúdo do arquivo, colar no console da página
 
 ## extrair-pedido.js
 
-Para a página de um pedido já fechado. Gera a lista limpa, uma carta por linha, e **já copia
+Para a página de um pedido já pago (comprado para alguém retirar, por exemplo). Gera a lista limpa, uma carta por linha, e **já copia
 para o clipboard**.
 
 ```
@@ -49,7 +49,7 @@ renderiza de um jeito.
 
 ## extrair-carrinho.js
 
-Para a página do carrinho. Abre um **painel flutuante** no canto superior direito com a lista,
+Para a página do carrinho (para enviar a alguém que vá fazer uma compra em massa, por exemplo). Abre um **painel flutuante** no canto superior direito com a lista,
 os valores e a soma; cada linha é um link para o produto.
 
 ```
